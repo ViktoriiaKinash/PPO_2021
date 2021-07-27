@@ -1,0 +1,1 @@
+SeriesPtr InitializeGeometricSeries(size, ratio);
